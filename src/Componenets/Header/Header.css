@@ -1,0 +1,16 @@
+.styleHeader{
+    border: 2px solid red;
+    background-color: aqua;
+
+    margin: 10px;
+  padding: 10px;
+
+}
+
+.localStateStyle{
+  background-color: darkgrey;
+}
+
+.higherOrderStateStyle{
+  background-color: dodgerblue;
+}

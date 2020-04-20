@@ -1,0 +1,13 @@
+.styleShipment{
+    border: 2px solid darkgreen;
+    background-color: gold;
+
+    margin: 10px;
+  padding: 10px;
+
+}
+
+
+.higherOrderStateStyle{
+  background-color: darkcyan;
+}

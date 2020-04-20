@@ -1,0 +1,12 @@
+.styleHome{
+    border: 2px solid  chartreuse;
+    background-color: blueviolet;
+
+    margin: 10px;
+  padding: 10px;
+
+}
+
+.higherOrderStateStyle{
+  background-color: lightblue;
+}
